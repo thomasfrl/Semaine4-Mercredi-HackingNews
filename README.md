@@ -1,24 +1,10 @@
 # README
+aplication non fini 
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+manque les commentaires de commentaires
 
-Things you may want to cover:
+sinon fonctionne
 
-* Ruby version
+peut se faire des tests de style:
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+`Comment.first.user`
